@@ -1,0 +1,33 @@
+/* /Components/FormCard.razor.rz.scp.css */
+.formCard[b-endv0xj754] {
+    user-select: none;
+    overflow-y: auto;
+    display: inline-block;
+    width: 33%;
+    height: 800px;
+    background: var(--main-color);
+    border: var(--secondary-color) 2px solid;
+    border-radius: 5px;
+}
+
+h2[b-endv0xj754] {
+    text-align: center;
+    margin: 10px;
+}
+/* /Components/FormCardContainer.razor.rz.scp.css */
+.formCardContainerContent[b-qr3szk7ehj] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.formCardContainerTitle[b-qr3szk7ehj] {
+    text-align: center;
+    font-size: 50px;
+}
+/* /Pages/Form.razor.rz.scp.css */
+h1[b-stztuig0da] {
+    color: var(--font-color);
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
