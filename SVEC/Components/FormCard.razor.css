@@ -1,0 +1,15 @@
+﻿.formCard {
+    user-select: none;
+    overflow-y: auto;
+    display: inline-block;
+    width: 33%;
+    height: 800px;
+    background: var(--main-color);
+    border: var(--secondary-color) 2px solid;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin: 10px;
+}

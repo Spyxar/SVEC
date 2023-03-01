@@ -1,0 +1,11 @@
+﻿.formCardContainerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.formCardContainerTitle {
+    text-align: center;
+    font-size: 50px;
+}
